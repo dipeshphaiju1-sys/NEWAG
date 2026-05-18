@@ -185,6 +185,7 @@ button {
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
+  background-repeat: no-repeat;
 }
 
 #gallery {
@@ -192,6 +193,7 @@ button {
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
+  background-repeat: no-repeat;
 }
 
 #tour {
@@ -199,6 +201,7 @@ button {
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
+  background-repeat: no-repeat;
 }
 
 #shop {
@@ -206,6 +209,7 @@ button {
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
+  background-repeat: no-repeat;
 }
 
 #contact {
@@ -213,6 +217,7 @@ button {
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
+  background-repeat: no-repeat;
 }
 
 .hero-grid {
