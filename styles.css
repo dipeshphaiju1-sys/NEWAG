@@ -35,7 +35,7 @@ body {
   color: var(--text);
   background:
     linear-gradient(rgba(5, 5, 9, 0.85), rgba(5, 5, 9, 0.98)),
-    url('DSC08630.jpg');
+    url('https://res.cloudinary.com/dfybmmlhf/image/upload/v1779090751/DSC08630_rbtbzi.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -293,7 +293,7 @@ button {
 .section-alt {
   background: 
     linear-gradient(rgba(15, 23, 42, 0.9), rgba(5, 5, 9, 0.98)),
-    url('DSC08506.jpg');
+    url('https://res.cloudinary.com/dfybmmlhf/image/upload/v1779090751/DSC08506_azfi6e.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
